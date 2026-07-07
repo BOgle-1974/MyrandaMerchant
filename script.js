@@ -19,9 +19,12 @@ const resultsDiv = document.getElementById('results');
 
 // Function to render videos based on category
 function renderArchives(filterQuery = "") {
+    if (!resultsDiv) return; // Safety check
     resultsDiv.innerHTML = ''; // Clear existing content
 
-    for (const [category, videos] of Object.entries(playlistData)) {
+    for (const category in playlistData) {
+        const videos = playlistData[category];
+        
         // Filter videos within this category based on search query
         const filteredVideos = videos.filter(v => 
             v.title.toLowerCase().includes(filterQuery.toLowerCase())
@@ -49,9 +52,11 @@ function renderArchives(filterQuery = "") {
 }
 
 // Event listener for live search
-searchInput.addEventListener('input', (e) => {
-    renderArchives(e.target.value);
-});
+if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+        renderArchives(e.target.value);
+    });
+}
 
 // Initial render of all content
 renderArchives();
