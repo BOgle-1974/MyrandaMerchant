@@ -7,14 +7,13 @@ const playlistData = {
     "Laundry": [
         { title: "EXTREME SPRING ORGANIZE and DECLUTTER + LAUNDRY | Part 2", id: "ZyX-GH81P1o" }
     ],
-    "How To": [
+    
+};
+"How To": [
         { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "GxdATQyTSnk" },
         { title: "HOW TO SAFELY REMOVE HARDWOOD FLOOR WAX | HOW TO GET POLISH AND PRODUCT BUILDUP OFF HARDWOOD FLOORS", id: "yRXRjydWvLI" },
         { title: "HOW TO PROFESSIONALLY CLEAN GROUT | AT HOME METHOD TO REMOVE GROUT STAINS!", id: "R0zykb3vNNg" }
     ]
-};
-
-const searchInput = document.getElementById('searchInput');
 const resultsDiv = document.getElementById('results');
 
 // Function to render videos based on category
