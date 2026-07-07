@@ -9,7 +9,7 @@ const playlistData = {
     ],
     "How To": [
         { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "GxdATQyTSnk" },
-        { title: "ADD YOUR VIDEO TITLE HERE", id: "yRXRjydWvLI" }
+        { title: "How to SAFELY REMOVE HARDWOOD FLOOR WAX | HOW TO GET POLISH AND PRODUCT BUILDUP OFF HARDWOOD FLOORS", id: "yRXRjydWvLI" }
     ]
 };
 
