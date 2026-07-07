@@ -8,8 +8,10 @@ const playlistData = {
         { title: "EXTREME SPRING ORGANIZE and DECLUTTER + LAUNDRY | Part 2", id: "ZyX-GH81P1o" }
     ],
     "How To": [
-        { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "GxdATQyTSnk" }
+        { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "GxdATQyTSnk" },
+        { title: "ADD YOUR VIDEO TITLE HERE", id: "yRXRjydWvLI" }
     ]
+// ... existing code
 };
 
 const searchInput = document.getElementById('searchInput');
