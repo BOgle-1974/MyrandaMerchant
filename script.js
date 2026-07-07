@@ -10,7 +10,8 @@ const playlistData = {
     "How To": [
         { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "GxdATQyTSnk" },
         { title: "HOW TO SAFELY REMOVE HARDWOOD FLOOR WAX | HOW TO GET POLISH AND PRODUCT BUILDUP OFF HARDWOOD FLOORS", id: "yRXRjydWvLI" },
-        { title: "HOW TO PROFESSIONALLY CLEAN GROUT | AT HOME METHOD TO REMOVE GROUT STAINS!", id: "R0zykb3vNNg" }
+        { title: "HOW TO PROFESSIONALLY CLEAN GROUT | AT HOME METHOD TO REMOVE GROUT STAINS!", id: "R0zykb3vNNg" },
+        { title: "Mold Removal: How to Remove Mold From Your Wash Machine | Super Easy Guide!", id: "wHyTz-1mK0g" }
     ]
 };
 
