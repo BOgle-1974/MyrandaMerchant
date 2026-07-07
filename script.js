@@ -8,7 +8,7 @@ const playlistData = {
         { title: "EXTREME SPRING ORGANIZE and DECLUTTER + LAUNDRY | Part 2", id: "ZyX-GH81P1o" }
     ],
     "How To": [
-        { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "k1tM8sB2zS4" }
+        { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "YOUR_VIDEO_ID_HERE" }
     ]
 };
 
