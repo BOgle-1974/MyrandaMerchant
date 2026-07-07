@@ -11,7 +11,6 @@ const playlistData = {
         { title: "HOW TO REMOVE MOLD FROM YOUR WASHING MACHINE | FRONT LOAD GASKET MOLD REMOVAL", id: "GxdATQyTSnk" },
         { title: "ADD YOUR VIDEO TITLE HERE", id: "yRXRjydWvLI" }
     ]
-// ... existing code
 };
 
 const searchInput = document.getElementById('searchInput');
